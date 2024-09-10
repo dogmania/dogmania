@@ -5,6 +5,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hs4609)](https://solved.ac/hs4609)
 
 
+<a href="https://velog.io/@hs4609/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hs4609/posts"/></a>
+
+
 <!--
 **dogmania/dogmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
