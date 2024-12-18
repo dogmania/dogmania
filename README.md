@@ -6,6 +6,8 @@
 
 
 <a href="https://velog.io/@hs4609/posts"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hs4609/posts"/></a>
+<a href="https://www.instagram.com/hyeonsu_0721/profilecard/?igsh=YTJuOWdmdnZpdTk5" target="_blank">
+		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
