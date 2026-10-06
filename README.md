@@ -64,6 +64,33 @@
     </td>
   </tr>
 
+  <!-- World Dominion -->
+  <tr>
+    <td width="110" align="center">
+      <img src="https://github.com/user-attachments/assets/673eac36-359f-4cd4-82e0-4ec5395e2a78" width="76" alt="World Dominion 앱 아이콘"/>
+      <br/>
+      <b>World Dominion</b>
+    </td>
+    <td>
+      <b>실제 세계지도를 기반으로 영토를 확장하고 세계를 정복하는 오프라인 턴제 전략 게임</b>
+      <br/>
+      <sub>Flutter · Dart · BLoC/Cubit · Offline Turn-Based Strategy</sub>
+      <br/><br/>
+      <!-- <a href="ANDROID_STORE_URL">
+        <img
+          src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"
+          alt="Google Play"
+        />
+      </a> -->
+      <a href="https://apps.apple.com/kr/app/world-dominion/id6813829951">
+        <img
+          src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
+          alt="App Store"
+        />
+      </a>
+    </td>
+  </tr>
+
   <!-- 온닷 -->
   <tr>
     <td width="110" align="center">
