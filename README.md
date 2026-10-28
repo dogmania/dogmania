@@ -76,12 +76,12 @@
       <br/>
       <sub>Flutter · Dart · BLoC/Cubit · Offline Turn-Based Strategy</sub>
       <br/><br/>
-      <!-- <a href="ANDROID_STORE_URL">
+      <a href="https://play.google.com/store/apps/details?id=com.hyeonsuson.worlddominion">
         <img
           src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"
           alt="Google Play"
         />
-      </a> -->
+      </a>
       <a href="https://apps.apple.com/kr/app/world-dominion/id6813829951">
         <img
           src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
